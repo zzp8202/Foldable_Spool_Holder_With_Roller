@@ -32,7 +32,7 @@ Nope
 ## Bill of Materials (BOM)
 |NO.	|Category	|Part Name	|Qty	|Remark
 |--|--|--|--|--|
-|1	|Motion	|Shaft 5x97mm  |X1	|
+|1	|Motion	|Shaft 5x100mm  |X1	|
 |2	|Motion	|MR115ZZ	|x2 |5x11x4mm |
 |3	|Motion	|Spacer_5x7x1|x2 |	
 |4	|Fasteners	|M3x10 BHCS	|X1	|
