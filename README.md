@@ -1,7 +1,7 @@
 # 1515_Foldable_Spool_Holder_With_Roller [中文说明](./Readme_CN.MD)
 
 
-### This project originated from[# voron-01-foldable-spool-holder]([Voron 0.1 Foldable Spool Holder](https://www.printables.com/model/311233-voron-01-foldable-spool-holder)
+### This project originated from[# voron-01-foldable-spool-holder]([Voron 0.1 Foldable Spool Holder])(https://www.printables.com/model/311233-voron-01-foldable-spool-holder)
 
 ## Objectives
 
