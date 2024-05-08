@@ -19,9 +19,9 @@
 
 ### Picture
 
-![图片](image/IMG_9499.jpg)
-![图片1](image/IMG_9500.jpg)
-![图片2](image/IMG_9501.jpg)
+![图片](Image/IMG_9499.jpg)
+![图片1](Image/IMG_9500.jpg)
+![图片2](Image/IMG_9501.jpg)
 ### Video
 Nope
 
