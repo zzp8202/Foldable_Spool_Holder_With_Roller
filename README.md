@@ -39,3 +39,4 @@ Nope
 |4	|Fasteners	|M3x35 SHCS	|X1 ||
 |5.1	|Fasteners	|M3x10 BHCS	|X1	|V0|
 |5.2	|Fasteners	|M5x10 BHCS	|X1 |V2|
+|5.3	|Fasteners	|M3x12 BHCS	|X1 |V2_T|
