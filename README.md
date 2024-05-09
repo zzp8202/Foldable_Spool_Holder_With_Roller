@@ -38,4 +38,4 @@ Nope
 |3	|Motion	|Spacer_5x7x1|x2 |	
 |4	|Fasteners	|M3x35 SHCS	|X1 ||
 |5.1	|Fasteners	|M3x10 BHCS	|X1	|V0|
-|5.2	|Fasteners	|M5x10 SHCS	|X1 |V2|
+|5.2	|Fasteners	|M5x10 BHCS	|X1 |V2|
